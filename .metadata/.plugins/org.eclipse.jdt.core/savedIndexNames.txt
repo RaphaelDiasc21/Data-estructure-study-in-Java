@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+/home/raphael/Desktop/Estudos/java/Estrutura de dados/.metadata/.plugins/org.eclipse.jdt.core
+1970334700.index
+646308851.index
