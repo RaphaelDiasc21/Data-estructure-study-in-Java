@@ -25,6 +25,8 @@ public class Array {
 		//ArrayList
 		//Java class that uses Arrays implementations, but with advantage to be resizeble
 		// The ArrayList is dynamic
+		// But the resizeable operation cost performance, because the java nedds to copy new array with new size
+		// The ArrayList does not accept primitive types (int float) just objects of these types (Integer, Float, etc)
 		
 		List<String> names = new ArrayList();
 		
