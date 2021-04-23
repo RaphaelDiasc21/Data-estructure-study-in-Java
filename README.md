@@ -10,5 +10,4 @@
       --set installCRDs=true \
       --set webhook.hostNetwork=true \
       --set webhook.securePort=10251
-   
    ```
